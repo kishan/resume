@@ -1,2 +1,2 @@
 ## View resume online
-http://kspatel.github.io/resume/
+http://kishan.github.io/resume/
